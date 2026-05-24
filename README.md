@@ -1,3 +1,7 @@
 # Ankush-Raj-demo
+
 this is my first repository
-Name:Ankush Raj
+Name: Ankush Raj
+
+Course: Btech
+
